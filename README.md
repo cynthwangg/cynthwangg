@@ -1,6 +1,6 @@
 ## Hi everyone👋 I'm Cynthia!
 
-I'm an undergraduate at Stanford University studying Computer Science (AI track) and Economics. I'm passionate about using my technical skills for social good, especially through startups. Right now, I'm obsessed with fintech, consumer applications, and scalable blockchain infra.
+I'm an undergraduate at Stanford University studying Computer Science (AI track) and Economics. I'm passionate about using my technical skills for social good, especially through startups. Right now, I'm obsessed with AI, consumer applications, and fintech.
 
 ### 🛠️ Previous Experience
 - I won 2nd place (Web3 track) at TreeHacks, the largest collegiate hackathon, with MediLedger. Check out the [Devpost](https://devpost.com/software/mediledger). 
@@ -10,11 +10,11 @@ I'm an undergraduate at Stanford University studying Computer Science (AI track)
 ### 🚀 Current side quests
 - Building [DeadDrop](https://github.com/hackingdecentralized/deaddrop), a smart contract bug reporting protocol using Oblivious Message Retrieval (OMR). We let security researchers responsibly alert developers! This is a project for the [Initiative for CryptoCurrencies and Contracts (IC3)](https://www.initc3.org/) in NYC. We won 3rd Place!
 - Curating Elsewhere, the world's first late-night cafe coworking network. We're launching our first San Francisco pop-up in July!
-- Incoming software engineering intern for Magic Eden, the "everything platform" for crypto. Hard-launching features on the Bitcoin team.
-- Leading [Stanford Blockchain](https://blockchain.stanford.edu/) as VP of Events! If you're cool, feel free to reach out.
+- Software engineering intern for Magic Eden. We'll be the "everything platform" for crypto.
+- Leading [Stanford Blockchain](https://blockchain.stanford.edu/) as VP of Events!
 
 ## Let's connect! 
-Reach out via [LinkedIn](https://linkedin.com/in/cynthwangg) or [Twitter](https://twitter.com/cynthwangg). Always down to collab on crazy ideas!
+Reach out via [LinkedIn](https://linkedin.com/in/cynthwangg) or [Twitter](https://twitter.com/cynthwangg). 
 
 
 
