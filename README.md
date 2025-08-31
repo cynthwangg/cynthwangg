@@ -3,7 +3,7 @@
 I'm an undergrad at Stanford University studying Computer Science (AI track) and Economics. 
 
 ### 🛠️ Previous Experience
-- Building Primer, a seamless checkout experience for every consumer. [Collaborated with Coinbase](https://x.com/0xyoussea/status/1958287663519105167) + Live demo [here](https://www.youtube.com/watch?v=Q18pnAODgqQ&t=7647s). 100K+ total impressions on the project. 
+- Building Primer, a seamless checkout experience for every consumer. [Collaborated with Coinbase](https://x.com/0xyoussea/status/1958287663519105167) + live demo linked [here](https://www.youtube.com/watch?v=Q18pnAODgqQ&t=7647s). 100K+ total impressions on the project. 
 - I won 2nd place (Web3 track) at TreeHacks, the largest collegiate hackathon, with MediLedger. Check out the [Devpost](https://devpost.com/software/mediledger). 
 - I also won bounties from startups like Nillion, Ablo, and EigenLayer for Creator.IP, an AI image generation agent. ~$30K in hackathon wins this year, extensive experience with TypeScript, Python, Node.js, Express.js, and AI tooling.
 
